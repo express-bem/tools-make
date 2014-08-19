@@ -11,7 +11,7 @@ describe('view render middlewares', function () {
         this.timeout(15000);
 
         // debugger;
-        env.app.bem.use(middleware);
+        env.app.bem.use(middleware, {verbosity: 'debug'});
 
         env.case(this.test.title, function (req, res) {
             global.loadBemjson(bemjsonFile, function (err, bemjson) {
