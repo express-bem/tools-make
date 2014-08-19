@@ -18,6 +18,8 @@ function expressSetup(opts, before, after) {
 
         env.app.bem = EXPRESSBEM(opts).bindTo(env.app);
 
+        env.app.bem.usePlugin(require('express-bem-bemhtml'));
+
         env.server = env.app.listen(function () {
             // store port to send requests later
             env.port = env.server.address().port;
