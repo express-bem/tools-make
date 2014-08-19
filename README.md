@@ -1,30 +1,32 @@
 
-# bem-tools make middleware for [express-bem][] [![Build Status](https://travis-ci.org/zxqfox/express-bem-tools-make.svg)](https://travis-ci.org/zxqfox/express-bem-tools-make) [![GitHub Release](http://img.shields.io/github/release/zxqfox/express-bem-tools-make.svg)](https://github.com/zxqfox/express-bem-tools-make/releases) [![Dependency Status](https://david-dm.org/zxqfox/express-bem.png)](https://david-dm.org/zxqfox/express-bem-tools-make)
+# express-bem-tools-make [![Build Status](https://travis-ci.org/zxqfox/express-bem-tools-make.svg)](https://travis-ci.org/zxqfox/express-bem-tools-make) [![GitHub Release](http://img.shields.io/github/release/zxqfox/express-bem-tools-make.svg)](https://github.com/zxqfox/express-bem-tools-make/releases) [![Dependency Status](https://david-dm.org/zxqfox/express-bem-tools-make.png)](https://david-dm.org/zxqfox/express-bem-tools-make)
 
+[bem-tools][] make middleware (plugin) for [express-bem][]
+
+[bem-tools]: https://github.com/bem/bem-tools
 [express-bem]: https://github.com/zxqfox/express-bem
 
 ## Dependencies
+
+[bem-tools][] v0.8.1+
 
 ### Peer
 
 [express-bem][] v0.1.3+
 
-Why
----
+## Why
 
 To make bundles on each render.
 
 Really helpful for bemxjst (bemhtml, bemtree) development purposes.
 
-Installation
-------------
+## Installation
 
 ```sh
 $ npm i express-bem-tools-make --save
 ```
 
-Usage
------
+## Usage
 
 ```js
 var
@@ -42,8 +44,7 @@ if (process.env.NODE_ENV === 'development') {
 }
 ```
 
-License
--------
+## License
 
 MIT [License][]
 
