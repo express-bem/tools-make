@@ -1,5 +1,5 @@
 
-# express-bem-tools-make [![Build Status](https://travis-ci.org/zxqfox/express-bem-tools-make.svg)](https://travis-ci.org/zxqfox/express-bem-tools-make) [![GitHub Release](http://img.shields.io/github/release/zxqfox/express-bem-tools-make.svg)](https://github.com/zxqfox/express-bem-tools-make/releases) [![Dependency Status](https://david-dm.org/zxqfox/express-bem-tools-make.png)](https://david-dm.org/zxqfox/express-bem-tools-make)
+# express-bem-tools-make [![Build Status](https://travis-ci.org/zxqfox/express-bem-tools-make.svg)](https://travis-ci.org/zxqfox/express-bem-tools-make) [![Dependency Status](https://david-dm.org/zxqfox/express-bem-tools-make.png)](https://david-dm.org/zxqfox/express-bem-tools-make)
 
 [bem-tools][] make middleware (plugin) for [express-bem][]
 
