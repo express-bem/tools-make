@@ -1,10 +1,12 @@
 
-# express-bem-tools-make [![Build Status](https://travis-ci.org/zxqfox/express-bem-tools-make.svg)](https://travis-ci.org/zxqfox/express-bem-tools-make) [![Dependency Status](https://david-dm.org/zxqfox/express-bem-tools-make.png)](https://david-dm.org/zxqfox/express-bem-tools-make)
+# express-bem-tools-make
+
+[![Build Status](https://travis-ci.org/express-bem/tools-make.svg)](https://travis-ci.org/express-bem/tools-make) [![Dependency Status](https://david-dm.org/express-bem/tools-make.png)](https://david-dm.org/express-bem/tools-make)
 
 [bem-tools][] make middleware (plugin) for [express-bem][]
 
 [bem-tools]: https://github.com/bem/bem-tools
-[express-bem]: https://github.com/zxqfox/express-bem
+[express-bem]: https://github.com/express-bem/express-bem
 
 ## Dependencies
 
@@ -48,4 +50,4 @@ if (process.env.NODE_ENV === 'development') {
 
 MIT [License][]
 
-[License]: https://github.com/zxqfox/express-bem/blob/master/LICENSE
+[License]: https://github.com/express-bem/express-bem/blob/master/LICENSE
