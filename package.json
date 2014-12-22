@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/zxqfox/express-bem-tools-make",
   "dependencies": {
-    "bem": "0.8.1"
+    "bem": "0.9.x"
   },
   "peerDependencies": {
     "express-bem": ">= 0.2.1",

@@ -8,7 +8,7 @@
 
 ## Dependencies
 
-[bem-tools][] v0.8.1+
+[bem-tools][] v0.9.0+
 
 ### Peer
 
