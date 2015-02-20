@@ -8,6 +8,8 @@
 [bem-tools]: https://github.com/bem/bem-tools
 [express-bem]: https://github.com/express-bem/express-bem
 
+Warn: Incompatible with clustering.
+
 ## Dependencies
 
 [bem-tools][] v0.9.0+
