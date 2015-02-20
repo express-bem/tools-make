@@ -28,10 +28,6 @@
   "dependencies": {
     "bem": "0.9.x"
   },
-  "peerDependencies": {
-    "express-bem": ">= 0.2.1",
-    "express-bem-bemhtml": ">= 0.0.1"
-  },
   "devDependencies": {
     "express": ">= 3.0",
     "express-bem": ">= 0.2.1",
