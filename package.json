@@ -1,6 +1,6 @@
 {
   "name": "express-bem-tools-make",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "bem engines middleware to make bundles on render",
   "main": "lib/index.js",
   "scripts": {
